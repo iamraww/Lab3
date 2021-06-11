@@ -1,0 +1,6 @@
+D:\RIDER\Lab3\Part4Ex2\bin\Debug\Part4Ex2.exe
+D:\RIDER\Lab3\Part4Ex2\bin\Debug\Part4Ex2.pdb
+D:\RIDER\Lab3\Part4Ex2\obj\Debug\Part4Ex2.csprojAssemblyReference.cache
+D:\RIDER\Lab3\Part4Ex2\obj\Debug\Part4Ex2.csproj.CoreCompileInputs.cache
+D:\RIDER\Lab3\Part4Ex2\obj\Debug\Part4Ex2.exe
+D:\RIDER\Lab3\Part4Ex2\obj\Debug\Part4Ex2.pdb
